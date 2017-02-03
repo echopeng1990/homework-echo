@@ -1,0 +1,93 @@
+h1 {
+	float:left;
+	border: 1px solid black;
+	display: inline;
+	margin:0;
+}
+#containerAd {
+	float:left;
+	width:15%;
+	height:820px;
+	
+}
+
+#containerContent {
+	float:left;
+	width:78%;
+}
+
+
+#containerFeatured {	
+	width: 100%;
+	margin:0;
+}
+
+#containerImage {	
+	width: 100%;
+	margin:0;
+}
+
+#containerArticles {
+	width: 100%;
+}
+
+#leftsidebar {
+	width:78%;
+	float: left;
+}
+
+
+#leftColumn {
+	width: 100%;
+	height:200px;
+	float: left;
+	margin-right: 0;
+}
+
+#centerColumn {
+	width: 75%;
+	height: 380px;
+	
+}
+#rightColumn {
+	width: 19%;
+	height: 380px;
+	margin-right:0;
+	
+}
+
+.sidebar{
+	background-color: #CCC;
+	padding: 10px;
+	margin: 5px;
+	height:790px;
+	
+}
+
+.article {
+	float: left;
+	width: 18%;
+	height: 95px;
+	background-color: #CCC;
+	margin: 5px;
+	padding: 8px;
+	height:150px;
+}
+.box {
+	background-color: #CCC;
+	padding: 10px;
+	margin: 5px;
+	float:left;
+}
+.clearFloat {
+	clear: both;
+}
+.column {
+	height: 400px;
+}
+
+
+footer{
+	height: 50px;
+	width:98%;
+}
