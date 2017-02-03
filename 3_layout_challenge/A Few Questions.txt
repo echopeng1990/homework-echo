@@ -1,0 +1,7 @@
+How to make all boxes inline?
+
+I did not change the original class and id names because everytime I change them(column to image, leftColumn to topImage, etc.) the page will be in a mess, am I not able to use "Image" as class name?
+
+How to make vavigation boxes float to right?
+
+Thank you Jonathan!
