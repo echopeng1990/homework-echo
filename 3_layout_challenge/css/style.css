@@ -4,6 +4,9 @@ h1 {
 	display: inline;
 	margin:0;
 }
+nav {
+    float: right;
+}
 #containerAd {
 	float:left;
 	width:15%;
