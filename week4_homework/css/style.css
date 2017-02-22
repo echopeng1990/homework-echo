@@ -1,0 +1,89 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+li{
+	color:black;
+	font-size: 14px;
+}
+
+.coder li{
+	color:white;
+}
+
+.navbar-custom {
+    background-color:#AEA9A7;
+    color:#F6B99B;
+    border-radius:0;
+}
+
+.navbar-brand {
+    color:black;
+    font-weight: bold;
+    font-family: "Helvetica";
+    font-size: 20px;
+}
+.coder{
+    background-image: url("https://img.clipartfest.com/5a07d4af28b57f2cdcb60aa3bc8358da_svce-coding-league-coding_2000-1080.png");
+    height:300px;
+    color:white;
+}
+
+.coder h2{
+	margin-bottom: 20px;
+	font-weight:bold;
+	padding-bottom: 10px;
+}
+
+#coding{
+	margin-top: 10px;
+}
+
+.guitar{
+	background-image: url("http://img8.3lian.com/mb/09/31/d/23.jpg");
+	height:300px;
+    color:white;
+}
+
+.guitar h2{
+	margin-bottom: 20px;
+	font-weight:bold;
+	padding-bottom:7px;
+}
+
+#playingGuitar{
+	margin-top: 10px;
+}
+
+.marketer{
+	background-image: url("http://www.gsdh.org/images/large/skills_big_conception.jpg");
+	height:300px;
+    color:black;
+}
+
+.marketer h2{
+	margin-bottom:20px;
+	font-weight: bold;
+	padding-top:10px;
+}
+
+#coding #playingGuitar #marketing{
+	margin-bottom: 20px;
+}
+
+#hobby{
+    background-color: #D3D3D3;
+	padding: 15px;
+	margin:auto;
+}
+#hobby h2{
+	font-weight: bold;
+}
+
+#action{
+	border:0;
+	height:300px;
+}
+
