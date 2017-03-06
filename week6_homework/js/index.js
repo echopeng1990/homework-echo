@@ -80,12 +80,20 @@ function getPrice(index, arrPrices)
         console.log('you gotta give me an valid index!')
     } else {
         //Won't return the price unless you assign the value to itemCost
+        // ### Hey Bo###
+        // assign the variable itemCost to the correct price by using
+        // the two variables that are sent into this function
+        // it should be 1 line of code
+
+        /*
+        Don't use this for loop
         for(var i = 0; i < arrPrices.length; i++)
         {   
           
             var itemCost = arrPrices [arrProducts.indexOf($('#selectProduct').val())]; 
             console.log('The price of index ' + i + ' = ' + arrPrices[i]);
         }
+        */
     }
     return parseFloat(itemCost);
 }
