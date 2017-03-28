@@ -1,0 +1,40 @@
+#navbar li{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.button1{
+	color:white;
+	background-color: transparent;
+	padding:auto;
+}
+
+input[type=text], input[type=password], input[type=checkbox] {
+    float:left;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
+
+.checkbox{
+  color:black;
+  padding:0;
+}
+
+.btn-custom{
+  color:white;
+  background-color: grey;
+}
